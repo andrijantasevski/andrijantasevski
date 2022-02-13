@@ -19,7 +19,7 @@ I am interested in creating beautiful and easy-to-use user interfaces that help 
 
 * E-mail: andrijantasevski@gmail.com
 * Website: [andrijan.xyz](https://www.andrijan.xyz)
-* LinkedIn: [Andrijan Tasevski] (https://si.linkedin.com/in/andrijan-tasevski-502903225)
+* LinkedIn: [Andrijan Tasevski](https://si.linkedin.com/in/andrijan-tasevski-502903225)
 
 Feel free to talk to me about all things programming and web development!
 
