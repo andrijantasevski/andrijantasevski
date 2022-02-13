@@ -6,16 +6,16 @@ I am a graduate of English and literature trying to make my way into the world o
 
 I am interested in creating beautiful and easy-to-use user interfaces that help people solve every day problems.
 
-## 🌱 I am learning ...
+## 🌱 I am learning
 
 * JavaScript
 * Solidifying my HTML and CSS knowledge
 
- ## 🔭 I’m currently working on ...
+ ## 🔭 I’m currently working on
 * Discount calculator
 * Weather app
 
-## 📫 How to reach me:
+## 📫 How to reach me
 
 * E-mail: andrijantasevski@gmail.com
 * Website: [andrijan.xyz](https://www.andrijan.xyz)
