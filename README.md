@@ -12,6 +12,7 @@ I am interested in creating beautiful and easy-to-use user interfaces that help 
 * Solidifying my HTML and CSS knowledge
 
  ## 🔭 I’m currently working on
+* [Lektured](https://www.lektured.com)
 * Discount calculator
 * Weather app
 
