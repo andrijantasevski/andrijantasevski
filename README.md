@@ -8,22 +8,23 @@ I am interested in creating beautiful and easy-to-use user interfaces that help 
 
 ## 🌱 I am learning
 
-* JavaScript
-* Solidifying my HTML and CSS knowledge
+- JavaScript
+- Solidifying my HTML and CSS knowledge
 
- ## 🔭 I’m currently working on
-* [Lektured](https://www.lektured.com)
-* Discount calculator
-* Weather app
+## 🔭 I’m currently working on
+
+- [Lektured](https://www.lektured.com)
+- Discount calculator
+- Weather app
 
 ## 📫 How to reach me
 
-* E-mail: andrijantasevski@gmail.com
-* Website: [andrijan.xyz](https://www.andrijan.xyz)
-* LinkedIn: [Andrijan Tasevski](https://si.linkedin.com/in/andrijan-tasevski-502903225)
+- E-mail: andrijantasevski@gmail.com
+- Website: [andrijan.xyz](https://www.andrijan.xyz)
+- Instagram: [andrijantasevski](https://www.instagram.com/andrijantasevski)
+- LinkedIn: [Andrijan Tasevski](https://si.linkedin.com/in/andrijan-tasevski-502903225)
 
 Feel free to talk to me about all things programming and web development!
-
 
 <!--
 **andrijantasevski/andrijantasevski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
