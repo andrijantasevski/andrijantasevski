@@ -9,13 +9,12 @@ I am interested in creating beautiful and easy-to-use user interfaces that help 
 ## 🌱 I am learning
 
 - JavaScript
-- Solidifying my HTML and CSS knowledge
+- TypeScript
+- React
 
 ## 🔭 I’m currently working on
 
-- [Lektured](https://www.lektured.com)
-- Discount calculator
-- Weather app
+- A website for ELI Centar
 
 ## 📫 How to reach me
 
