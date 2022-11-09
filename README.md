@@ -19,7 +19,7 @@ I am interested in creating beautiful and easy-to-use user interfaces that help 
 ## 📫 How to reach me
 
 - E-mail: andrijantasevski@gmail.com
-- Website: [andrijan.xyz](https://www.andrijan.xyz)
+- Website: [andrijan.dev](https://www.andrijan.dev/)
 - Instagram: [andrijantasevski](https://www.instagram.com/andrijantasevski)
 - LinkedIn: [Andrijan Tasevski](https://si.linkedin.com/in/andrijan-tasevski-502903225)
 
