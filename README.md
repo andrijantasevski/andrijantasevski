@@ -2,19 +2,20 @@
 
 My name is Andrijan.
 
-I am a graduate of English and literature trying to make my way into the world of web development.
+I am a graduate of English and literature.
+
+I am currently working as an ERP Developer with Microsoft Dynamics 365 Business Central.
 
 I am interested in creating beautiful and easy-to-use user interfaces that help people solve every day problems.
 
 ## 🌱 I am learning
 
-- JavaScript
-- TypeScript
-- React
+- C#
+- Making native Windows apps
 
 ## 🔭 I’m currently working on
 
-- A website for ELI Centar
+- A web application for learning Macedonian.
 
 ## 📫 How to reach me
 
